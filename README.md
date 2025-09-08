@@ -1,4 +1,4 @@
-full-time sm64 betah archivist
+full-time sm64 betah hacker
 <!--¡
 **stalechilibeans/stalechilibeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
